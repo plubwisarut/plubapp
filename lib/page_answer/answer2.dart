@@ -35,7 +35,7 @@ class Answer2 extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const [
                     Text(
-                      'Thongchai KLompum',
+                      'Wisarut Phongern',
                       style: TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.bold,
